@@ -512,7 +512,7 @@ async function main() {
     });
   }
 
-  await pres.writeFile({ fileName: "/mnt/user-data/outputs/Requirements_Construction_Types_Section403.pptx" });
+  await pres.writeFile({ fileName: "Construction_Types_Section403.pptx" });
   console.log("Done!");
 }
 
