@@ -1,7 +1,4 @@
 const pptxgen = require("pptxgenjs");
-const React = require("react");
-const ReactDOMServer = require("react-dom/server");
-const sharp = require("sharp");
 
 async function main() {
   const pres = new pptxgen();
